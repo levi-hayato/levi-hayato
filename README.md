@@ -1,4 +1,4 @@
-![image](https://github.com/levi-hayato/levi-hayato/assets/96982342/6d3f64d5-7e67-44da-bf16-637f32df3cf9)<h2 align="left">Hi 👋! My name is ₹!$H! and I'm an IT Student, from Yeola , Maharashtra</h2>
+<h2>Hi 👋! My name is ₹!$H! and I'm an IT Student, from Yeola , Maharashtra</h2>
 
 ###
 
