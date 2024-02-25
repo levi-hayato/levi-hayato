@@ -16,17 +16,13 @@
 <div align="left">
   <img src="https://imgs.search.brave.com/yo-oXf0wRJBGOC8tadGB-arOIEeryon8RW4CyWy2nM4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9EYXJ0Xyhw/cm9ncmFtbWluZ19s/YW5ndWFnZSkvRGFy/dF8ocHJvZ3JhbW1p/bmdfbGFuZ3VhZ2Up/LUxvZ28ud2luZS5z/dmc.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/java-original.svg](https://imgs.search.brave.com/oZSRmG5qkanEOt0b7iMcOx0_3_RBR_djEhoWSJvnJXA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9qYXZhLnN2Zw.svg)" height="30" alt="csharp logo"  />
 </div>
 
 ###
