@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/java-original.svg](https://imgs.search.brave.com/oZSRmG5qkanEOt0b7iMcOx0_3_RBR_djEhoWSJvnJXA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9qYXZhLnN2Zw.svg)" height="30" alt="csharp logo"  />
+  <img src="https://imgs.search.brave.com/oZSRmG5qkanEOt0b7iMcOx0_3_RBR_djEhoWSJvnJXA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9qYXZhLnN2Zw.svg" height="30" alt="csharp logo"  />
 </div>
 
 ###
