@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ₹!$H! and I'm an IT Student, from Yeola , Maharashtra</h2>
+![image](https://github.com/levi-hayato/levi-hayato/assets/96982342/6d3f64d5-7e67-44da-bf16-637f32df3cf9)<h2 align="left">Hi 👋! My name is ₹!$H! and I'm an IT Student, from Yeola , Maharashtra</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/dart-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://imgs.search.brave.com/yo-oXf0wRJBGOC8tadGB-arOIEeryon8RW4CyWy2nM4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9EYXJ0Xyhw/cm9ncmFtbWluZ19s/YW5ndWFnZSkvRGFy/dF8ocHJvZ3JhbW1p/bmdfbGFuZ3VhZ2Up/LUxvZ28ud2luZS5z/dmc.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
